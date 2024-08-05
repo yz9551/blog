@@ -1,0 +1,11 @@
+baseURL = 'https://yxz.is-a.dev/'
+languageCode = 'en-us'
+title = 'YXZ blog'
+theme = 'github-style'
+
+[params]
+    author = 'YXZ'
+    favicon = '/images/github.png'
+    avatar = '/images/avatar.png'
+    enableGitalk = false
+
