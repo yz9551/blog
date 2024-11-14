@@ -1,10 +1,10 @@
 baseURL = 'https://yxz.is-a.dev/'
 languageCode = 'en-us'
-title = 'YXZ blog'
+title = 'YXZ'
 theme = 'risotto'
 
 [params]
-    author = 'YXZ'
+    author = 'YXZ(yz9551)'
     favicon = '/images/github.png'
     avatar = '/images/avatar.png'
     enableGitalk = false
